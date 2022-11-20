@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ways to fight against bot scalping for objects that are out there!
-- 🌱 I’m currently learning GoLang, web3/blockchain, how to code on the highest level :D
+- 🌱 I’m currently learning GoLang and web3/blockchain (Solidity)
 - 💬 Ask me about my journey from Civil Engineering to Software!
 - 📫 How to reach me: LinkedIn, Email, even Instagram! 
 
@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ways to fight against bot scalping for objects that are out there!
 - 🌱 I’m currently learning GoLang, web3/blockchain, how to code on the highest level :D
-- 💬 Ask me about my journey from Civil Engineering to Software!
-- 📫 How to reach me: LinkedIn, Email, even Instagram! 
+- 💬 Ask me about my journey from Civil Engineering to Software! 
+- 📫 How to reach me: LinkedIn, Email, even Instagram 
 -->
